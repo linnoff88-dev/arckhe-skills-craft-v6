@@ -1,5 +1,5 @@
 #!/bin/bash
-# Rode depois de traduzir-curso.py: ajusta caminhos que o tradutor não reescreve nas edições en/ e es/.
+# Rode depois de traduzir-curso.py: ajusta caminhos que o tradutor nêo reescreve nas edições en/ e es/.
 set -e
 cd "$(dirname "$0")/.."
 for L in en es; do
