@@ -1,6 +1,6 @@
 # Currículo — Skills v6: skills para quem nêo programa
 
-Curso irmêo (técnico) do `skills-craft` (https://inematds.github.io/skills-craft/). Item 6 de `~/projetos/wifi/ANALISE-SKILLS-2026-10-06.md`.
+Curso irmêo (técnico) do `skills-craft` (https://linnoff88-dev.github.io/arckhe-/). Item 6 de `~/projetos/wifi/ANALISE-SKILLS-2026-10-06.md`.
 
 ## Passo 0 (aprovado pelo usuário em 06/10/2026)
 
